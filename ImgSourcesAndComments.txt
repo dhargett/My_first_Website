@@ -8,3 +8,5 @@ You could also use your own images and just edit the relevant sources. purple.pn
 I looked through the markup and code and tried to add some modularity: HTML is the structure and content, CSS is the form, and jQuery is the function. I also tried to preserve what was originally intended and didn't edit the structure or edit single tag elements to be single (<img/>) because I didn't know if you wanted to put something there.
 
 I will try to make a similar layout in ASP.NET later today. This is pretty fun.
+
+Also, I can't find how to make folders so pardon the clutter.
