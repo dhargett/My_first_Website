@@ -1,0 +1,10 @@
+I can't find how to upload image files so I'll just give you the imgur.com links.
+purple.png - http://i.imgur.com/Df3ttXW.jpg
+red.png - http://i.imgur.com/KlunfZA.jpg
+Or you can make them yourself in paint. Just a blank 200X50 canvas and paint tool.
+
+You could also use your own images and just edit the relevant sources. purple.png is the default image and red.png is the swapped image on hover.
+
+I looked through the markup and code and tried to add some modularity: HTML is the structure and content, CSS is the form, and jQuery is the function. I also tried to preserve what was originally intended and didn't edit the structure or edit single tag elements to be single (<img/>) because I didn't know if you wanted to put something there.
+
+I will try to make a similar layout in ASP.NET later today. This is pretty fun.
